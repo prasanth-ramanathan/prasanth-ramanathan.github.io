@@ -237,7 +237,7 @@ background: none;
 
 .navbar-brand b {
     color: #fff;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Brush Script MT';
 	font-weight:400;
 }
 
@@ -948,6 +948,10 @@ footer {
     color: #c7c7c7;
 }
 
+.social h4 {
+    font-family: 'Rockwell';
+    color: #c7c7c7;
+}
 .social img {
     border-radius: 100%;
     width: 20%;
